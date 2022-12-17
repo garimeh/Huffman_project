@@ -1,0 +1,1 @@
+Sample data to check if this zip file creator is successful in encoding the data correctly.
